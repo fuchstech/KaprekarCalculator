@@ -3,6 +3,10 @@
 ```
 python3 kaprekar.py
 ```
+if you want to see all 4 digit Kaprekar numbers you can give True parameter in main function
+```
+main(True)
+```
 6174 is known as Kaprekar's constant after the Indian mathematician D. R. Kaprekar. This number is renowned for the following rule:
 
 Take any four-digit number, using at least two different digits (leading zeros are allowed).
