@@ -34,4 +34,4 @@ def main(all = False):
         if len(set(_ for _ in str(sayi))) <= 2:
             raise Exception("Each digit of a number cannot be a separate number.")
         print(kaprekar(sayi)[0])
-main(all=True)
+main()
